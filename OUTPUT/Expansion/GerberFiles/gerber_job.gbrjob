@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-10-14T14:05:26Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "EXPANSION V1.4"
+        },
+        "Owner": "Sienci Labs <hi@sienci.com>",
+        "Size": {
+            "X": 95.031559,
+            "Y": 51
+        }
+    }
+}
